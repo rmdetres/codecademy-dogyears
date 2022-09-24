@@ -1,0 +1,38 @@
+.thepage{
+    background-color:bisque
+}
+
+.topheader{
+   
+    text-align: center;
+    font-size: 50px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container1 {
+    padding: 20px;
+}
+
+.container2 {
+    padding: 20px;
+
+}
+
+#humanyears{
+    width: 60px;
+}
+
+#dogyears {
+    width: 60px;
+}
+
+.dogImage{
+    display: flex;
+    justify-content: center;
+
+}
